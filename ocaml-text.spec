@@ -25,9 +25,8 @@ BuildRequires:  ocaml-doc
 
 
 %description
-Coccinelle is a tool to utilize semantic patches for manipulating C
-code. It was originally designed to ease maintenance of device
-drivers in the Linux kernel.
+Caml-Text is a library for dealing with ``text'', i.e. sequence of
+unicode characters, in a convenient way.
 
 %package        devel
 Summary:        Development files for %{name}
