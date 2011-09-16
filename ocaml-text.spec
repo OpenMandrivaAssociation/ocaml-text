@@ -20,6 +20,7 @@ BuildRequires:	camlp4
 BuildRequires:  ocaml-findlib-devel
 BuildRequires:	ocaml-pcre
 BuildRequires:  ocaml-doc
+BuildRequires:	libncurses-devel
 
 %global __ocaml_requires_opts -i Ast_c -i Token_c -i Type_cocci -i Ast_cocci -i Common -i Oassocb -i ANSITerminal -i Oseti -i Sexplib -i Oassoch -i Setb -i Oassoc_buffer -i Ograph2way -i SetPt -i Mapb -i Dumper -i Osetb -i Flag
 
