@@ -6,7 +6,7 @@
 
 Name:           ocaml-text
 Version:        %{versionbase}
-Release:        2
+Release:        3
 Summary:        OCaml Text helpers
 Group:          Development/Other
 License:        GPLv2
