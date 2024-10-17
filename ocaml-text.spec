@@ -10,7 +10,7 @@ Release:        3
 Summary:        OCaml Text helpers
 Group:          Development/Other
 License:        GPLv2
-URL:            http://forge.ocamlcore.org/projects/ocaml-text/
+URL:            https://forge.ocamlcore.org/projects/ocaml-text/
 Source0:	http://forge.ocamlcore.org/frs/download.php/641/%{name}-%{version}.tar.gz
 BuildRequires:  ocaml >= 3.10.0
 BuildRequires:	camlp4
